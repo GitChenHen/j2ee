@@ -10,5 +10,8 @@
 public class HiWorld {
     public static void main(String[] args) {
         System.out.println("j2ee");
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
