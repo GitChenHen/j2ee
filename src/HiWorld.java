@@ -8,5 +8,7 @@
  * @Version: 1.0
  */
 public class HiWorld {
-
+    public static void main(String[] args) {
+        System.out.println("j2ee");
+    }
 }
